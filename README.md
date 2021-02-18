@@ -1,6 +1,8 @@
-Name:Jiaxi Chen
-
-Image:
+# Name
+Jiaxi Chen
+# Date
+Finish in 09/2019. Upload in 2021
+# Image:
 two background from internet:
 C2.jpg:
     https://dnd.bernardopiedade.com/img/c2.jpg
